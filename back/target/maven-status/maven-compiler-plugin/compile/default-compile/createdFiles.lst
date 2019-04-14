@@ -1,0 +1,15 @@
+com\example\gitpfe\Controller\FolderController.class
+com\example\gitpfe\exception\ResourceNotFoundException.class
+com\example\gitpfe\model\Utilisateur.class
+com\example\gitpfe\repository\FileRepository.class
+com\example\gitpfe\repository\MessageRepository.class
+com\example\gitpfe\repository\UtilisateurRepository.class
+com\example\gitpfe\model\Folder.class
+com\example\gitpfe\GitpfeApplication.class
+com\example\gitpfe\Controller\MessageController.class
+com\example\gitpfe\GitpfeApplication$1.class
+com\example\gitpfe\Controller\UtilisateurController.class
+com\example\gitpfe\model\Message.class
+com\example\gitpfe\repository\FolderRepository.class
+com\example\gitpfe\Controller\FileController.class
+com\example\gitpfe\model\File.class
