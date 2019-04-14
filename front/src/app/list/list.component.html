@@ -1,0 +1,9 @@
+
+<app-add></app-add>
+
+<table class="table table-striped table-bordered table-hover" id="dataTables-example">
+<thead>
+<tr><td>id</td><td>first name</td><td>last name</td><td> email</td> <td> grade</td><td>Action</td></tr></thead>                                <tbody>
+<tr *ngFor="let us of utilisateurs">
+<td>{{us.id}} </td><td> {{us.nom}}</td><td> {{us.prenom}}</td> <td> {{us.email}}</td> <td> {{us.grade}}</td><td><a href="#" (click)="delete(us)" class="btn btn-danger">Delete</a></td>
+</tr></tbody></table>
